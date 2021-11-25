@@ -99,3 +99,8 @@ body {
 footer{
     text-align: center;
 }
+
+.bagcampus{
+	height: 50px;
+	border-radius: 100px;
+}
